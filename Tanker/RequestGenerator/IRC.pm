@@ -11,7 +11,7 @@ use POE::Component::IRC;
 
 @ISA = qw (Tanker::RequestGenerator);
 
-my $NAME    = "tanker" . $0 % 1000;
+my $NAME    = "tanker" . $$ % 1000;
 my $NICK    =  $NAME;
 my $CHANNEL = "#tanker";
 my $SERVER  = "london.rhizomatic.net";

@@ -1,5 +1,5 @@
-Tanker version 0.02
-===================
+Tanker version 0.021
+====================
 
 Tanker is (hopefully), a generic pipeline module for Perl.
 
@@ -138,8 +138,10 @@ Yes. Infact probably all of it will.
 
 SHOWING YOUR APPRECIATION
 
-There was a thread on the london.pm mailing list about working in a vacumn - that it was a bit depressing to keep writing
-modules but never get any feedback. So, if you use and like this module then please send me an email and make my day. 
+There was a thread on the london.pm mailing list about working in a
+vacumn - that it was a bit depressing to keep writing modules but never
+get any feedback. So, if you use and like this module then please send
+me an email and make my day. 
 
 All it takes is a few little bytes.
 

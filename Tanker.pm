@@ -5,7 +5,7 @@ use warnings;
 use vars qw($VERSION);
 use Data::Dumper;
 
-$VERSION = 0.02;
+$VERSION = 0.021;
 
 
 sub new  ($$)

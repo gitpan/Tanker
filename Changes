@@ -1,5 +1,8 @@
 Revision history for Perl extension Tanker.
 
+0.021 Fri Feb 23 16:08:54 2002
+	- Fixed a minor bug in the irc request generator
+
 0.02  Tue Feb 19 15:59:30 2002
 	- updated so that the IRC request handler actually pumps IRC events down pipelines
 
